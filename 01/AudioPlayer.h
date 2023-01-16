@@ -6,5 +6,5 @@ public:
 	AudioPlayer();
 	~AudioPlayer();
 
-	static void PlaySoundById(int id);
+	/*static*/ void PlaySoundById(int id);
 };
